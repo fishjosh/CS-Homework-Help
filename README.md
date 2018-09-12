@@ -1,1 +1,1 @@
-"# CS371" 
+"# These are just random programs that have helped me complete homework throughout college"
